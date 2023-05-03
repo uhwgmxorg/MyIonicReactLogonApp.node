@@ -1,0 +1,7 @@
+{
+  "name": "my-ionic-react-logon-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
